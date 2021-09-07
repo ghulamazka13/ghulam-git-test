@@ -1,0 +1,16 @@
+[
+{
+    "nama": "Ghulam Azka Alim",
+    "umur": 22,
+    "NIM" : "13317026",
+    "lulus": true,
+    "hobby": [
+        "gaming",
+        "coding"
+    ],
+    "pembimbing": {
+        "Pembimbing 1": "babi",
+        "Pembimbing 2": "anjing"
+    }
+}
+]
