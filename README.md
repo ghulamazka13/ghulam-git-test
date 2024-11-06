@@ -1,2 +1,2 @@
 # ghulam-git-test
-repo buat coba git remote
+repo buat coba git remote babai
